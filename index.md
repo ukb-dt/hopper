@@ -19,8 +19,8 @@
 
 
 <div>
-  <img src="locust/hopper-1.jpeg" width="30%" height="300px"><img src="locust/hopper-2.jpeg" width="30%" height="300px">
-  <img src="locust/hopper-3.jpeg" width="30%" height="300px"><img src="locust/hopper-4.jpeg" width="30%" height="300px">
+  <img src="locust/hopper-1.jpeg" width="34%" height="250px"><img src="locust/hopper-2.jpeg" width="34%" height="250px">
+  <img src="locust/hopper-3.jpeg" width="34%" height="250px"><img src="locust/hopper-4.jpeg" width="3$%" height="250px">
 </div>
 
 # [A](https://ukb-dt.github.io/bourdieu/)
