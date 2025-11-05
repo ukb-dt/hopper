@@ -35,9 +35,11 @@ Here’s what’s happening ecologically:
 The scene you’ve captured—red soil, leaf litter, moist understory, and early instar locusts—suggests this is a **recent hatching site** after rains, where eggs laid in the soil have just hatched.
 
 If you’re connecting this to your “ukb-canon” — you might think of it as a **phase transition** in a dynamical system:
-[
+
+$$
 (E, x) \rightarrow E(t | x) + \epsilon \rightarrow \frac{dE_x}{dt}
-]
+$$
+
 These nymphs represent a local increase in “energy density” (biological activity) — a self-organized attractor arising from environmental perturbation (rain + temperature gradient + nutrient pulse). The system is oscillating between equilibrium (individual dispersal) and chaotic synchronization (mass aggregation).
 
 Would you like me to map this visually into the **E–x dynamical canon** — showing the locust swarm phase as a local attractor in biological energy flow?
@@ -55,7 +57,7 @@ They embody the **ancient logic of coordination under scarcity**. Solitary locus
 At the symbolic or philosophical level (where your canon hums in the background):
 What’s at stake is **the boundary between emergence and control**. Are we witnessing the earth’s spontaneous order at work — energy finding its own attractors — or a warning about what happens when equilibrium breaks? It’s a microcosm of human systems too: economies, crowds, social contagion. Small fluctuations can tip whole systems into phase transitions. The soil, the insects, the canopy — it’s all a rehearsal for the great thermodynamic drama of life: can complexity sustain itself without devouring its own foundations?
 
-If the canon enters here, it’s not to explain, but to **locate the inflection** — to show where ( E(t | x) ) (the local energy field) crosses from adaptation into overdrive.
+If the canon enters here, it’s not to explain, but to **locate the inflection** — to show where $E(t | x)$ (the local energy field) crosses from adaptation into overdrive.
 
 In short: what’s at stake is **the difference between life as rhythm and life as outbreak.**
 
@@ -99,20 +101,20 @@ Would you like me to sketch (conceptually, not visually yet) how that energy flo
 # D
 Yes—perfect. Then let’s translate the swarm, the whole wriggling scene, directly into that calculus you’ve built.
 
-Think of (E) as the **biomass-energy field** of the ecosystem. (x) is **context**—rainfall, vegetation density, predator pressure, soil moisture. The locusts are not separate entities but **perturbations** in (E(t|x)): living packets of the field’s surplus energy.
+Think of $E$ as the **biomass-energy field** of the ecosystem. $x$ is **context**—rainfall, vegetation density, predator pressure, soil moisture. The locusts are not separate entities but **perturbations** in $E(t \mid x)$: living packets of the field’s surplus energy.
 
 Now, stage by stage through your canonical flow:
 
-1. **((E, x))** — The field and its context.
+1. **$(E, x)$** — The field and its context.
    At rest, this is the savannah or forest floor in equilibrium: sunlight, plants, moisture, predators, microbes, each holding steady relationships.
 
-2. **(;E(t | x) + \epsilon)** — A deviation; the perturbation term.
-   The rains come, grass explodes, and nutrient density rises. The system’s stored energy increases faster than the predators’ consumption rate. The surplus ((\epsilon)) is small at first—latent potential in the vegetation layer.
+2. **$E(t | x) + \epsilon$** — A deviation; the perturbation term.
+   The rains come, grass explodes, and nutrient density rises. The system’s stored energy increases faster than the predators’ consumption rate. The surplus ($\epsilon$) is small at first—latent potential in the vegetation layer.
 
-3. **(\frac{dE_x}{dt})** — The rate of energy transformation.
-   Eggs hatch. Plant biomass converts into insect biomass. This derivative measures *how fast energy moves upward* through trophic levels. When (\frac{dE_x}{dt}) spikes, you witness those black nymphs: the local energy transfer gradient steepens.
+3. **$\frac{dE_x}{dt}$** — The rate of energy transformation.
+   Eggs hatch. Plant biomass converts into insect biomass. This derivative measures *how fast energy moves upward* through trophic levels. When $\frac{dE_x}{dt}$ spikes, you witness those black nymphs: the local energy transfer gradient steepens.
 
-4. **(\frac{d^2E_x}{dt^2})** — The curvature; acceleration or deceleration of flow.
+4. **$\frac{d^2E_x}{dt^2}#** — The curvature; acceleration or deceleration of flow.
    Here lies the danger. If positive—meaning acceleration—the system is entering self-reinforcement: more insects → more consumption → more open soil → more breeding ground. If negative—decelerating—the predator feedback or weather change damps the surge. This term tells you whether the swarm will stabilize or run away.
 
 5. **(\int E_x , dt + \epsilon_x t + C_x)** — The integrated outcome, the memory of the event.
