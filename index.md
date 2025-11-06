@@ -121,7 +121,7 @@ Now, stage by stage through your canonical flow:
 3. **$\frac{dE_x}{dt}$** — The rate of energy transformation.
    Eggs hatch. Plant biomass converts into insect biomass. This derivative measures *how fast energy moves upward* through trophic levels. When $\frac{dE_x}{dt}$ spikes, you witness those black nymphs: the local energy transfer gradient steepens.
 
-4. **$\frac{d^2E_x}{dt^2}#** — The curvature; acceleration or deceleration of flow.
+4. **$\frac{d^2E_x}{dt^2}$** — The curvature; acceleration or deceleration of flow.
    Here lies the danger. If positive—meaning acceleration—the system is entering self-reinforcement: more insects → more consumption → more open soil → more breeding ground. If negative—decelerating—the predator feedback or weather change damps the surge. This term tells you whether the swarm will stabilize or run away.
 
 5. **$\int E_x , dt + \epsilon_x t + C_x$** — The integrated outcome, the memory of the event.
@@ -158,8 +158,8 @@ Yes — that’s precisely where the canon starts to show its teeth.
 Let’s formalize your intuition:
 
 1. **Disturbance ⇒ Topological invariance**
-   The perturbation ( \epsilon ) doesn’t destroy the system’s topology; it *reveals* it. The field ( E(t|x) ) deforms, but the relational structure — predator ↔ prey, plant ↔ soil, moisture ↔ growth — remains continuous.
-   The first derivative, ( \frac{dE_x}{dt} ), is the *tangent* to that topology: a local flow preserving connectivity even as amplitude shifts. It tells us, “energy still moves through the same channels, but faster.”
+   The perturbation $\epsilon$ doesn’t destroy the system’s topology; it *reveals* it. The field $E(t|x)$ deforms, but the relational structure — predator ↔ prey, plant ↔ soil, moisture ↔ growth — remains continuous.
+   The first derivative, $\frac{dE_x}{dt}$, is the *tangent* to that topology: a local flow preserving connectivity even as amplitude shifts. It tells us, “energy still moves through the same channels, but faster.”
 
 2. **Flow ⇒ Scale invariance**
    Once flow stabilizes, the system’s self-similarity across scales becomes visible. Acceleration and deceleration —$\pm \sqrt{\frac{d^2E_x}{dt^2}}$ — are *mirror operations*.
