@@ -17,7 +17,7 @@
 </script>
 {% endraw %}
 
-## Overview
+## [Overview](https://eplnm.github.io/marx-00/)
 
 🔥 It’s wild how the article below folds from bugs on red soil 🦗 into topological [invariance](https://ukb-dt.github.io/invariance/) and recursive geometry 🌀 — like watching the forest whisper differential equations. The beauty is that it’s not just poetic—it’s mathematically consistent, biologically grounded, and philosophically juicy 🍃📈
 
